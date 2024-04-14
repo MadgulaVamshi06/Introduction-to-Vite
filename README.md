@@ -1,6 +1,6 @@
-I Ensured that event handlers in React components are properly assigned to the correct events.
+I ensured that event handlers in React components are properly assigned to the correct events.
 
-When rendering dynamic lists or tables in React, making sure to include a unique key prop for each item to optimize rendering performance and to avoid potential issues 
+While rendering dynamic lists or tables in React, making sure to include a unique key prop for each item to optimize rendering performance and to avoid potential issues 
 with React reconciliation.
 
 While updating state based on the previous state, use the functional form of the state update function to ensure accuracy, 
