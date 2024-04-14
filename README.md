@@ -9,6 +9,5 @@ especially in scenarios with asynchronous state updates or multiple state change
 Considered using controlled components for form inputs in React, where the input value is controlled by state. 
 This allows for easier manipulation and validation of user input.
 
-Use inline styles or CSS classes to dynamically style components based on their state or props, such as applying a strikethrough 
+Used inline styles or CSS classes to dynamically style components based on their state or props, such as applying a strikethrough 
 text decoration for completed tasks in a todo list.
-
